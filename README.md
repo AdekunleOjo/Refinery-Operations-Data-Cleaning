@@ -99,6 +99,15 @@ Statistical outliers were treated as investigation candidates rather than automa
 **Validation:**  
 The identified observations were isolated and reviewed alongside their data-quality classifications.
 
+<div align="center">
+  <img src="https://github.com/AdekunleOjo/Refinery-Operations-Data-Cleaning/blob/main/Outlier/downtime_outlier.png?raw=true" width="48%" />
+  <img src="https://github.com/AdekunleOjo/Refinery-Operations-Data-Cleaning/blob/main/Outlier/production_outlier.png?raw=true" width="48%" />
+</div>
+
+<p align="center">
+  <b>Downtime Outlier Analysis</b> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <b>Production Output Outlier Analysis</b>
+</p>
+
 ## Dataset Structure
 
 The original workbook contains the following operational tables:
